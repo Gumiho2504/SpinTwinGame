@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7AB30989-12FF-C3B8-344E-DDC8763B55A4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/winspin/script/SpinWheelWithRewards.cs">
+    <Files>
+      <File FileName="Assets/winspin/script/Point.cs" Line="1" Column="1" />
+      <File FileName="Assets/winspin/script/SpinWheelWithRewards.cs" Line="150" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SpinTwinGame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="winspin" expanded="True">
+                <Node name="script" expanded="True">
+                  <Node name="Sound" expanded="True" />
+                  <Node name="SpinWheelWithRewards.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f41e7918-eea5-46b3-8483-dc26476442cb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
